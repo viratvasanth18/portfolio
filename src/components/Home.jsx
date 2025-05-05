@@ -56,7 +56,7 @@ const Home = () => {
           <br />
           <div className="bg-[#0e7490] hover:bg-[#155e75] transition-all duration-200 ease-in-out px-5 py-2 rounded-2xl font-bold font-poppins">
             <a
-              href="/public/Siva Sankar Resume.pdf"
+              href="/Siva-Sankar-Resume.pdf"
               download=""
               className="text-white"
             >

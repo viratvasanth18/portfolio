@@ -45,7 +45,7 @@ const Project = () => {
             {/* Image */}
             <div className="md:w-1/2">
               <img
-                src="/public/chatapp.png"
+                src="/chatapp.png"
                 alt="Summify AI"
                 className="rounded-xl w-full shadow-xl"
               />
@@ -83,7 +83,7 @@ const Project = () => {
             {/* Image */}
             <div className="md:w-1/2">
               <img
-                src="/public/weather.png"
+                src="/weather.png"
                 alt="Live-Weather App"
                 className="rounded-xl w-full shadow-xl"
               />
@@ -122,7 +122,7 @@ const Project = () => {
             {/* Image */}
             <div className="md:w-1/2">
               <img
-                src="/public/lehenga zone.png"
+                src="/lehenga zone.png"
                 alt="Summify AI"
                 className="rounded-xl w-full shadow-xl"
               />
@@ -163,7 +163,7 @@ const Project = () => {
             {/* Image */}
             <div className="md:w-1/2">
               <img
-                src="/public/ajcorp.png"
+                src="/ajcorp.png"
                 alt="Live-Weather App"
                 className="rounded-xl w-full shadow-xl"
               />
