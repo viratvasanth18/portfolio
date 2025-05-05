@@ -152,7 +152,7 @@ const Project = () => {
                 integration.
               </p>
               <a
-                href="ajcorp-portfolio.netlify.app"
+                href="https://ajcorp-portfolio.netlify.app/"
                 target="_blank"
                 className="text-[#0e7490] font-bold text-lg hover:underline"
               >
